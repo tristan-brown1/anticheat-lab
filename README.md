@@ -1,1 +1,1 @@
-"# Anticheat Lab Start" 
+# Anticheat Lab Start 
